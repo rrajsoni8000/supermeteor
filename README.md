@@ -5,7 +5,7 @@ How to use:
 
 install using composer
 ```bash
-composer require supermeteor/sdk-php
+composer require supermeteor-v1/sdk-php
 ```
 include vendor/autoload.php in your file
 
