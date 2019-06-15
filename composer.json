@@ -1,5 +1,5 @@
 {
-    "name": "supermeteor/sdk-php",
+    "name": "supermeteor-v1/sdk-php",
     "description": "This librabry use to create sms and email message using HTTP request",
     "type": "library",
     "license": "MIT",
